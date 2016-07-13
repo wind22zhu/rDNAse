@@ -19,12 +19,12 @@ package are extensively utilized in bioinformatics and chemogenomics.
     * Trinucleotide-based auto covariance
     * Trinucleotide-based cross covariance
     * Trinucleotide-based auto-cross covariance
-  
- * Nucleic acid composition
+
+  * Nucleic acid composition
     * Pseudo dinucleotide composition
     * Pseudo k-tupler nucleotide composition
-    
-    ### Similarity Computation
+
+### Similarity Computation
 
 Local and global pairwise sequence alignment for DNA sequences:
 
