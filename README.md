@@ -39,5 +39,5 @@ GO semantic similarity measures:
 ## Links
 
   * CRAN: https://cran.r-project.org/package=rDNAse
-  * GitHub: https://github.com/wind2zhu/rDNAse
-  * Bug report: https://github.com/wind2zhu/rDNAse/issues
+  * GitHub: https://github.com/wind22zhu/rDNAse
+  * Bug report: https://github.com/wind22zhu/rDNAse/issues
